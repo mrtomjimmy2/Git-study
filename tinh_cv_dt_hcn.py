@@ -2,4 +2,5 @@
 dai = int(input())
 rong = int(input())
 
-print(dai*rong)
+print("chu vi la", (dai+rong)*2)
+print("dien tich la", dai*rong)

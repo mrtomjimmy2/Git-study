@@ -9,3 +9,5 @@ dientich = dai * rong
 # In ket qua ra man hinh
 print("chu vi la: ", chuvi)
 print("dien tich la: ", dientich)
+
+# End of code

@@ -1,6 +1,11 @@
-# tinh cv va dt hcn
-dai = int(input())
-rong = int(input())
+# Nhap chieu dai va chieu rong cua hinh chu nhat
+dai = int(input("Nhap chieu dai: "))
+rong = int(input("Nhap chieu rong: "))
 
-print("chu vi la", (dai+rong)*2)
-print("dien tich la", dai*rong)
+# tinh cv va dt
+cv = (dai + rong) * 2
+dt = dai * rong
+
+# In ket qua ra man hinh
+print("chu vi la: ", cv)
+print("dien tich la: ", dt)
